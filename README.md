@@ -4,4 +4,4 @@ After you clone the files in this repository, please also create a new file call
 
 Follow along with the programming demo in class to write this Driver class.
 
-Submit your finished work to Canvas.
+Submit your finished Driver.java to the Canvas ICA assignment for today.
